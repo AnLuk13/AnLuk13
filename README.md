@@ -1,5 +1,7 @@
 # 💫 About Me:
-As a passionate and driven web developer, I specialize in creating dynamic, user-focused applications using modern technologies like React ⚛️, Next.js 🖥️, and Node.js 🌐. With hands-on experience in building responsive and scalable solutions for e-commerce 🛒, real estate 🏡, and interactive platforms 🎨, I enjoy contributing to innovative projects and continuously expanding my skill set. Eager to collaborate 🤝 and deliver high-quality results, I thrive in fast-paced environments and am committed to producing code that is both efficient and maintainable ⚙️✨.
+As a passionate and driven web developer, I specialize in creating dynamic, user-focused applications using modern technologies like React ⚛️, Next.js 🖥️, and Node.js 🌐. 
+With hands-on experience in building responsive and scalable solutions for e-commerce 🛒, real estate 🏡, and interactive platforms 🎨, I enjoy contributing to innovative projects and continuously expanding my skill set. 
+Eager to collaborate 🤝 and deliver high-quality results, I thrive in fast-paced environments and am committed to producing code that is both efficient and maintainable ⚙️✨.
 
 
 ## 🌐 Socials:
