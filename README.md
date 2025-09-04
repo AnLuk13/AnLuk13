@@ -9,9 +9,9 @@ Software Engineer specializing in web domain targeting, with a focus on building
 - React/Next.js
 - Node/Express.js/Nest.js
 - CSS/SCSS/Tailwind/Bootstrap/MUI/ShadCN
-- SQL/Non-SQL (MySQL, PostgreSQL, Supabase, Firebase, MongoDB)
-
-- Experimenting with integrating APIs, creating bots, useful scripts, and apps, while resonating with new technologies. Building myself up
+- SQL/Non-SQL (MySQL, PostgreSQL, Supabase, Prisma, Firebase, MongoDB)
+- Figma
+- Experimenting with integrating APIs, creating bots, useful scripts, tools, and apps, while resonating with new technologies and the world of AI🤖. Building myself up
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnLuk13&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
