@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer specializing in web domain targeting, with a focus on building and integrating innovative IT solutions to drive scalability and expand technological capabilities⚙️.
+Software Engineer | Product Engineer specializing in web domain targeting, with a focus on AI-driven building and integrating innovative IT solutions to drive scalability and expand technological capabilities⚙️.
 
 
 ## 🌐 Socials:
