@@ -14,7 +14,9 @@ Software Engineer | Product Engineer specializing in web domain targeting, with 
 - Experimenting with integrating APIs, creating bots, useful scripts, tools, and apps, while resonating with new technologies and the world of AI🤖. Building myself up
   
 # 📊 GitHub Stats:
-[![AnLuk13's GitHub Stats](https://www.githubstats.tech/api/card?username=AnLuk13&theme=catppuccin-mocha&size=small&show_name=1&show_grade=1&show_stars=1&show_commits=1&show_prs=1&show_issues=1&show_contributed=1&show_year=1&show_top_repo=1&show_profile=1&show_top_percent=0&contrib_stars=1)](https://www.githubstats.tech)
+![](https://github-readme-stats.shion.dev/api?username=AnLuk13&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=AnLuk13&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AnLuk13&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AnLuk13&icon=0&color=0)](https://visitcount.itsvg.in)
